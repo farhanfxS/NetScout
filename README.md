@@ -66,7 +66,7 @@ The project includes a CodeLab interface for security-oriented development and t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NetScout.git
+git clone https://github.com/farhanfxS/NetScout.git
 cd NetScout
 ```
 
@@ -108,31 +108,23 @@ Android permission requirements can change between Android versions.
 
 ## 📸 Screenshots
 
-> Screenshots will be added to the `screenshots/` directory.
-
 ### Main Interface
-
-![NetScout Home](screenshots/home.png)
+![NetScout Main Interface](screenshots/IMG_20261007_234004.jpg)
 
 ### LAN Scan
-
-![LAN Scan](screenshots/lan-scan.png)
+![NetScout LAN Scan](screenshots/Screenshot_20261007_234221.jpg)
 
 ### Detected Devices
-
-![Detected Devices](screenshots/devices.png)
+![NetScout Detected Devices](screenshots/Screenshot_20261007_234244.jpg)
 
 ### Device Details
-
-![Device Details](screenshots/device-details.png)
+![NetScout Device Details](screenshots/Screenshot_20261007_234302.jpg)
 
 ### Nearby Discovery
-
-![Nearby Discovery](screenshots/proximity.png)
+![NetScout Nearby Discovery](screenshots/Screenshot_20261007_234313.jpg)
 
 ### Security / Assessment
-
-![Security Assessment](screenshots/security.png)
+![NetScout Security Assessment](screenshots/Screenshot_20261007_234321.jpg)
 
 ## 🗂️ Project Structure
 

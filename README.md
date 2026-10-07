@@ -109,13 +109,13 @@ Android permission requirements can change between Android versions.
 ## 📸 Screenshots
 
 ### Main Interface
-![NetScout Main Interface](screenshots/IMG_20261007_234004.jpg)
+![NetScout Main Interface](screenshots/Screenshot_20261007_234244.jpg)
 
 ### LAN Scan
 ![NetScout LAN Scan](screenshots/Screenshot_20261007_234221.jpg)
 
 ### Detected Devices
-![NetScout Detected Devices](screenshots/Screenshot_20261007_234244.jpg)
+![NetScout Detected Devices](screenshots/IMG_20261007_234004.jpg)
 
 ### Device Details
 ![NetScout Device Details](screenshots/Screenshot_20261007_234302.jpg)
